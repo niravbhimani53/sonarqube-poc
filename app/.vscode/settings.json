@@ -1,0 +1,10 @@
+{
+  "sonarlint.connectedMode.connections.sonarqube": [
+    {
+      "connectionId": "sonarqube",
+      "serverUrl": "http://localhost:9000",
+      "token": "<project-token>"
+    }
+  ],
+  "sonarlint.disableTelemetry": true
+}
