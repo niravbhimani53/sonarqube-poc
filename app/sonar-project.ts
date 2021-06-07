@@ -10,8 +10,6 @@ scanner(
       'sonar.login': "<project-token>",
       // Name of the token
       'sonar.projectKey': '<project-token-name>',
-      // Name of the project
-      'sonar.projectName': '<project-name>',
       'sonar.sources': 'src',
       'sonar.tests': 'src',
       'sonar.inclusions': 'src/**/*.ts, src/**/*.tsx, src/**/*.jsx, src/**/*.js', // Entry point of your code

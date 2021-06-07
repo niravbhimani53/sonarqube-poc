@@ -50,5 +50,9 @@ _To run code analysis on ReactJS project easily we will be using npm package `so
 1. Install packages
    `npm i`
 1. To generate code analysis on the ReactJS project, run command
-   `node sonar-project.ts`
+   ```
+      npm run sonar
+      Or
+      node sonar-project.ts
+   ```
 1. Code analysis report of the project will be available in SonarQube http://localhost:9000/projects and select your ReactJS project
